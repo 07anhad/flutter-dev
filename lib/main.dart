@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.deepPurple,
           fontFamily: GoogleFonts.baloo().fontFamily,
+          // brightness: Brightness.dark
         ),
         // debugShowCheckedModeBanner: false,
         darkTheme: ThemeData(
